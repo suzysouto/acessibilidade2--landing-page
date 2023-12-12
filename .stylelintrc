@@ -1,0 +1,11 @@
+{
+  "customSyntax": "postcss-styled-syntax",
+  "extends": ["stylelint-config-standard"],
+  "rules": {
+    "no-empty-source": null,
+    "font-family-name-quotes": null,
+    "selector-class-pattern": null,
+    "media-query-no-invalid": null,
+    "declaration-block-no-redundant-longhand-properties": null
+  }
+}
